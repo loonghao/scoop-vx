@@ -1,16 +1,16 @@
 {
-    "version": "x-v0.5.25",
+    "version": "x-v0.5.26",
     "description": "Universal development tool manager - run any dev tool with automatic runtime management",
     "homepage": "https://github.com/loonghao/vx",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/loonghao/vx/releases/download/vx-v0.5.25/vx-x86_64-pc-windows-msvc.zip",
-            "hash": "863a0284ea63b1dcf2e51b1220299bc4dce9825144d32fa9084a41e0fc2f39ee"
+            "url": "https://github.com/loonghao/vx/releases/download/vx-v0.5.26/vx-x86_64-pc-windows-msvc.zip",
+            "hash": "b84e8ae4f7fb0fac436b640e1517db1d70a38f5aa8ebed909dd7b31cb766aaf2"
         },
         "arm64": {
-            "url": "https://github.com/loonghao/vx/releases/download/vx-v0.5.25/vx-aarch64-pc-windows-msvc.zip",
-            "hash": "20edbedfa87b5d712b2444e4e1b541fca349bd368b1cbdef1f1b143aaa7bdd97"
+            "url": "https://github.com/loonghao/vx/releases/download/vx-v0.5.26/vx-aarch64-pc-windows-msvc.zip",
+            "hash": "a84294a4c2adbb57f557c6f0c2ed21d05f1c28e71d4e704588d762fffb1ab10f"
         }
     },
     "bin": "vx.exe",
