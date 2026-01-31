@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/loonghao/vx/releases/download/vx-v0.6.23/vx-x86_64-pc-windows-msvc.zip",
-            "hash": "Not"
+            "hash": "66c70a592c9d2f2874d0e40abba557ef08cd08f8ba1642267c59e701327783f1"
         },
         "arm64": {
             "url": "https://github.com/loonghao/vx/releases/download/vx-v0.6.23/vx-aarch64-pc-windows-msvc.zip",
-            "hash": "Not"
+            "hash": "edcc4f55b16b1293b4c168e95f88779e34f567e568337b158e59daec2ed43d5f"
         }
     },
     "bin": "vx.exe",
