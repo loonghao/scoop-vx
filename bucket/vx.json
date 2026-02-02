@@ -10,7 +10,7 @@
         },
         "arm64": {
             "url": "https://github.com/loonghao/vx/releases/download/vx-v0.6.24/vx-aarch64-pc-windows-msvc.zip",
-            "hash": "8197f650553d79cf30d6a4da09c111b96f2f459b0c76a80c945b79cf087ca0bd"
+            "hash": "Not"
         }
     },
     "bin": "vx.exe",
